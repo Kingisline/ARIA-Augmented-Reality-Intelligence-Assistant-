@@ -83,5 +83,11 @@ python main.py --mode hud --voice-enabled
 
 **ARIA** — Redefining the boundary between human perception and digital intelligence.
 
+### Prototype
+ ![Image](https://github.com/user-attachments/assets/acbdcb03-e725-48d9-92cd-b6f792021ddd)
+
+ ---
+ 
+![Image](https://github.com/user-attachments/assets/a6dcbb3c-9619-4dd3-8bca-f99bed77e77a)
 
 
