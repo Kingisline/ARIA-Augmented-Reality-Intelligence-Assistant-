@@ -1,0 +1,15 @@
+# ESP32-CAM Assistive Reader v2 — Python dependencies
+# Install with:  pip install -r requirements.txt
+
+opencv-python>=4.8
+easyocr>=1.7
+numpy>=1.24
+gTTS>=2.5
+pygame>=2.5
+pydub>=0.25          # stereo panning for TTS audio
+pyspellchecker>=0.8  # spell correction before TTS
+spacy>=3.7           # NER pipeline
+ultralytics>=8.0     # YOLOv8 object detection
+
+# After pip install, also run:
+#   python -m spacy download en_core_web_sm
